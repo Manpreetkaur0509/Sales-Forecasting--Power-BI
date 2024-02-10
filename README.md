@@ -15,3 +15,5 @@ Actionable insights and recommendations: End goal is to share valuable insights 
 ![image](https://github.com/Manpreetkaur0509/Sales-Forecasting--Power-BI/assets/146500547/ad1d4603-5e83-4532-b9e2-e4d2e9ec0fc9)
 
 ![image](https://github.com/Manpreetkaur0509/Sales-Forecasting--Power-BI/assets/146500547/d308b4c8-eee9-4432-9fa0-144dc4811f48)
+
+![image](https://github.com/Manpreetkaur0509/Sales-Forecasting--Power-BI/assets/146500547/1d56fda0-aca4-4423-90b3-30fd2fa1b089)
